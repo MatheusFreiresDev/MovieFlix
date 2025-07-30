@@ -70,4 +70,3 @@ Matheus Freires — [GitHub](https://github.com/MatheusFreiresDev)
 
 ---
 
-Se quiser posso ajudar a criar exemplos de requisições ou instruções pra rodar! Tá melhor assim?
